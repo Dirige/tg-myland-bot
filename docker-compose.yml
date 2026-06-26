@@ -1,0 +1,7 @@
+services:
+  tg-myland-bot:
+    build: .
+    container_name: tg-myland-bot
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
