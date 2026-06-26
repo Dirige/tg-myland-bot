@@ -1,0 +1,17 @@
+{
+  "bot_token": "",
+  "admin_id": 0,
+  "notify_chat_id": 0,
+  "check_interval": 1800,
+  "proxy": "",
+  "game": {
+    "base_url": "https://myland.somebyte.org",
+    "user_token": "",
+    "player_id": "",
+    "map_id": 11,
+    "wheat_seed_id": 1001,
+    "sow_qty": 1,
+    "steal_timeout": 4,
+    "max_steal": 10
+  }
+}
